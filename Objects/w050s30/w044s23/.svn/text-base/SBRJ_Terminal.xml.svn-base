@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+ <path>SBRJ_Terminal.ac</path>
+ <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>25000</max-m>
+ </animation>    
+<model>
+<path>Models/Airport/Jetway/glass.xml</path>
+<offsets>
+<x-m>7.80</x-m>
+<y-m>1.50</y-m>
+<z-m>0</z-m>
+</offsets>
+</model> 
+<model>
+<path>Models/Airport/Jetway/glass.xml</path>
+<offsets>
+<x-m>44.90</x-m>
+<y-m>1.50</y-m>
+<z-m>0</z-m>
+</offsets>
+</model> 
+<model>
+<path>Models/Airport/Jetway/glass.xml</path>
+<offsets>
+<x-m>84.40</x-m>
+<y-m>1.50</y-m>
+<z-m>0</z-m>
+</offsets>
+</model> 
+<model>
+<path>Models/Airport/Jetway/glass.xml</path>
+<offsets>
+<x-m>122.82</x-m>
+<y-m>1.50</y-m>
+<z-m>0</z-m>
+</offsets>
+</model>
+<model>
+<path>Models/Airport/Jetway/glass.xml</path>
+<offsets>
+<x-m>162.50</x-m>
+<y-m>1.50</y-m>
+<z-m>0</z-m>
+</offsets>
+</model> 
+<model>
+<path>Models/Airport/Jetway/glass.xml</path>
+<offsets>
+<x-m>203.37</x-m>
+<y-m>1.50</y-m>
+<z-m>0</z-m>
+</offsets>
+</model>
+<model>
+<path>Models/Airport/Jetway/glass.xml</path>
+<offsets>
+<x-m>242.09</x-m>
+<y-m>1.50</y-m>
+<z-m>0</z-m>
+</offsets>
+</model> 
+<model>
+<path>Models/Airport/Jetway/glass.xml</path>
+<offsets>
+<x-m>281.12</x-m>
+<y-m>1.50</y-m>
+<z-m>0</z-m>
+</offsets>
+</model>
+</PropertyList>
+                   
+

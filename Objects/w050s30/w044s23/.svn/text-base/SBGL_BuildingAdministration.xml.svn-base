@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+ <path>SBGL_BuildingAdministration.ac</path>
+  <animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-m>16000</max-m>
+ </animation>
+  <animation>
+  <type>alpha-test</type>
+  <alpha-factor>0.01</alpha-factor>
+ </animation>
+ <animation>
+  <type>select</type>
+  <object-name>Material1</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.57</value>
+   </greater-than>
+  </condition>
+ </animation>
+  <animation>
+  <type>material</type>
+  <object-name>SBGL_BuildingAdministration</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.57</value>
+   </greater-than>
+  </condition>
+       <emission>	
+  <red>0.15</red>	
+  <green>0.15</green>	
+  <blue>0.15</blue>
+ </emission>
+ </animation>
+</PropertyList>

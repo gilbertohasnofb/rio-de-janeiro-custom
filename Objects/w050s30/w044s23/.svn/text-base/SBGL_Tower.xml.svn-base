@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PropertyList>
+<path>SBGL_Tower.ac</path>
+<animation>
+<type>range</type>
+<min-m>0</min-m>
+<max-m>10000</max-m>
+</animation>
+<animation>
+<type>alpha-test</type>
+<alpha-factor>0.01</alpha-factor>
+</animation>
+<model>
+  <path>Models/Effects/RedLight10000.xml</path>
+  <offsets>
+  <x-m>6.44</x-m>
+  <y-m>7.21</y-m>
+  <z-m>32.68</z-m>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/RedLight10000.xml</path>
+  <offsets>
+  <x-m>9.41</x-m>
+  <y-m>6.04</y-m>
+  <z-m>32.68</z-m>
+  </offsets>
+</model>
+</PropertyList>
